@@ -1,0 +1,3 @@
+# gitignore 적용
+git rm -r --cached .
+git add .
