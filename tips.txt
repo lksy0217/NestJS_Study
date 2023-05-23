@@ -1,3 +1,6 @@
+# token
+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
+
 # gitignore 적용
 git rm -r --cached .
 git add .
